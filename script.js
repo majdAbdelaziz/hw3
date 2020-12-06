@@ -106,7 +106,7 @@ var  avrg = 0;
 for( var i =0 ; i<array.length; i++) 
 { 
 var m  = a3.push(array[i].ppu)
-for (var n =0 ; p <a3.length ; p++)
+for (var n =0 ; m <a3.length ; p++)
 {
 
 avrg= avrg+(a3[n]/a3.length);
