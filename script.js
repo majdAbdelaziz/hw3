@@ -109,7 +109,7 @@ var m  = a3.push(array[i].ppu)
 for (var n =0 ; p <a3.length ; p++)
 {
 
-avrg= avr+(a3[n]/a3.length);
+avrg= avrg+(a3[n]/a3.length);
 }
 
 }
