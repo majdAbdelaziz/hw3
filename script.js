@@ -74,7 +74,7 @@ function topping()
 for (var i = 0; i< array.length; i++) 
 {
  var a1 = array[i].topping;
-for (var j= 0; j< array1.length;j++ )
+for (var j= 0; j< a1.length;j++ )
 {
 console.log(a1[j].type);
 
@@ -106,7 +106,7 @@ var  avrg = 0;
 for( var i =0 ; i<array.length; i++) 
 { 
 var m  = a3.push(array[i].ppu)
-for (var n =0 ; p <array3.length ; p++)
+for (var n =0 ; p <a3.length ; p++)
 {
 
 avrg= avr+(a3[n]/a3.length);
